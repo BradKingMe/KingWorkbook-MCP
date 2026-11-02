@@ -1,0 +1,4 @@
+invoice_id,vendor,amount,status
+INV-1001,Northstar Paper,420.00,Approved
+INV-1002,Harbor Office,325.50,Approved
+INV-1004,Maple Freight,514.50,Pending
